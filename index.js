@@ -8,4 +8,4 @@ var random = Math.random();
 
 var mod = 10 % 6 
 
-var max = Math.max(20, 15, 12, 10)
+var max = Math.max(20, 15, 12, 10);
